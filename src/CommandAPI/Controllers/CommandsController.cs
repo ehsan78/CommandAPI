@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using CommandAPI.Data;
+using CommandAPI.Models;
 
 namespace CommandAPI.Controllers
 {
